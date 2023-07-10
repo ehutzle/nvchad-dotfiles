@@ -3,7 +3,7 @@
 
 ### Install Nvim Configuration
 ```
-git clone git@github.com:ehutzle/nvchad-dotfiles.git \ 
-    ~/.config/nvim/lua/custom/  --depth 1
+git clone git@github.com:ehutzle/nvchad-dotfiles.git \
+  ~/.config/nvim/lua/custom/ --depth 1
 ```
 
